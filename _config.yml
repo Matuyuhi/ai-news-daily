@@ -1,0 +1,9 @@
+title: AI News Daily
+description: 毎朝お届けする AI 業界の動向まとめ
+theme: minima
+lang: ja
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
